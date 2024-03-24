@@ -22,7 +22,9 @@ npm install
 Créez un fichier '.env.local' à la racine du projet s'il n'existe pas déjà.
 
 Ajoutez la chaîne de connexion à votre base de données MongoDB dans le fichier .env.local en suivant le format suivant :
+```bash
 MONGODB_URI=<votre_chaine_de_connexion>
+```
 
 ## Lancer le projet en dev
 
